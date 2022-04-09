@@ -1,3 +1,3 @@
 # gperepechko.github.io
 ## kartoshka
-### Industrial Society And Its Future
+### **Industrial Society And Its Future**
